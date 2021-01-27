@@ -1,0 +1,33 @@
+body{
+    background:url(12.jpg);
+    background-size:cover;
+}
+.bravo{
+    height:50px;
+    width:200px;
+    float:left;
+    margin-left:200px;
+    margin-top:40px;
+   
+}
+.bravo p{
+    font-size:30px;
+    font-style:bold;
+    margin-top:30px;
+}
+.description{
+    height:300px;
+    width:300px;
+    color:black;
+    float:left;
+    margin-left:50px;
+    font-size:20px;
+    margin-top:60px;
+   
+}
+.content ul li{
+    float:left;
+    padding:20px;
+    color:black;
+    list-style: none;
+}

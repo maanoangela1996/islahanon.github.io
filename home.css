@@ -1,0 +1,56 @@
+body{
+    background:url(bg.jpg);
+    background-size:cover;
+   color:black;
+  
+}
+.content{
+    height:80px;
+    width:100%;
+  
+    
+}
+.content ul li{
+    float:left;
+    padding:20px;
+    font-size:20px;
+    list-style: none;
+    color:white;
+
+}
+.CONTAINER2 p{
+    color:black;
+   
+    margin-top:50px;
+    float:right;
+    font-size:300px;
+   
+    height:50px;
+    width:100%;
+    text-align:center;
+}
+.part1{
+    height:60px;
+    width:500px;
+    float:left;
+    color:white;
+    margin-right:30px;
+    font-size:20px;
+}
+.part{
+    height:300px;
+    width:200px;
+   
+    float:right;
+    margin-left:900px;
+}
+.part ul li{
+    list-style: none;
+    font-size:25px;
+    padding:10px;
+}
+.part a{
+    color:white;
+    
+}
+

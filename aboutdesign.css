@@ -1,0 +1,19 @@
+body{
+    background:url(bg.jpg);
+    background-size:cover;
+}
+.definition ul li{
+    float:left;
+    padding:20px;
+    list-style: none;
+    font-size:30px;
+    color:white; 
+}
+.One{
+    height:200px;
+    width:600px;
+    float:left;
+    color:black;
+    font-size:18px;
+    margin-top:2%;
+}

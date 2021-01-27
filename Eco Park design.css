@@ -1,0 +1,33 @@
+body{
+    background-image:url("park.jpg");
+    background-size:cover;
+}
+.title{
+    height:50px;
+    width:200px;
+    float:left;
+    margin-left:200px;
+    margin-top:30px;
+   
+}
+.title p{
+    font-size:40px;
+    font-style:bold;
+    margin-top:20px;
+}
+.description{
+    height:280px;
+    width:300px;
+    color:white;
+    float:left;
+    margin-left:50px;
+    font-size:16px;
+    margin-top:10px;
+   
+}
+.content ul li{
+    float:left;
+    padding:20px;
+    color:blue;
+    list-style: none;
+}

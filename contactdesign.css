@@ -1,0 +1,26 @@
+body{
+    background:url(cont.jpg);
+    background-size:cover;
+}
+.content ul li{
+    float:left;
+    padding:20px;
+    list-style: none;
+    font-size:30px;
+    color:white
+} 
+
+.maano{
+    height:200px;
+    width:600px;
+    float:left;
+    
+    
+    margin-left:10%;
+}
+.maanoul li{
+    list-style: none;
+    padding:20px;
+    font-size:white;
+    font-size:30px;
+} 
